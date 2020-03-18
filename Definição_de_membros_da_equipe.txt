@@ -1,0 +1,7 @@
+Membros da equipe 
+
+Igor Lima; PO;	
+João Victor Lima; Scrum Master;
+Matheus Banhara; Desenvolvedor;
+Raul Iglesias; Desenvolvedor.
+
